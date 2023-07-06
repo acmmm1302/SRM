@@ -14,5 +14,5 @@ Train and evaluate the model by executing
  
 # Acknowledgements
 
-We thank the authors of [GSC](https://github.com/yh-han/GSC.git) and [GraphMAE](t https://github.com/THUDM/GraphMAE) for open sourcing their methods.
+We thank the authors of [GSC](https://github.com/yh-han/GSC.git) and [GraphMAE](https://github.com/THUDM/GraphMAE) for open sourcing their methods.
 
